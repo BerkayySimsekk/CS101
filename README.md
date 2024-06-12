@@ -1,4 +1,1 @@
-Lab works,
-Homeworks,
-Practices,
-Test
+Lab works, homeworks, practices, test
