@@ -1,6 +1,6 @@
 # Bilkent University CS 101 Lab Work and Homework Assignments
 
-Repository includes my solutions for the course Algorithms and Programming I homeworks and lab assignments. The course introduces the fundamentals of the computer programming with Java programming.
+Repository includes my solutions for the course Algorithms and Programming I homeworks and lab assignments. The course introduces the fundamentals of computer programming using Java.
 
 ## Homework Assignments
 
@@ -20,13 +20,13 @@ Repository includes my solutions for the course Algorithms and Programming I hom
 - `Lab 4` : Loops
      - `Contents` : Reading user inputs using while loops. 
 - `Lab 5` : Loops 
-     - `Contents` : Formatting the user inputs or determining whether the user input conform to predetermined set of rules using for and do-while loops.
+     - `Contents` : Formatting the user inputs or determining whether the user input conforms to predetermined set of rules using for and do-while loops.
 - `Lab 6` : Static Methods
      - `Contents` : Encoding words using the soundex system with several helper functions 
 - `Lab 7` : ArrayLists 
      - `Contents` : Application that stores restaurant reservations by storing dates, customers' names, customers' phone numbers with the usage of helper static methods.
 - `Lab 8` : Arrays
-     - `Contents` : Application that determines when you should attend to the party by taking the priority of each friend, the times they plan to arrive and leave the party into consideration.
+     - `Contents` : Application that determines when you should attend to the party by taking into consideration the priority of each friend, the times they plan to arrive and leave the party.
 - `Lab 9` : Classes and Objects
      - `Contents` : Private data members, constructor, public non-static methods, application that determines your BMI category and fitness level.
 - `Lab 10` : Classes and Objects
